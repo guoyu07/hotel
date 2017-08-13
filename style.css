@@ -1,0 +1,30 @@
+h1{
+	font-size: 3em;
+	text-align:center; 
+	border: solid black;
+}
+h2{
+	color: green;
+	text-align:right; 
+}
+
+p{
+	color: rgb(0,255,0);
+}
+h1,h2{
+	font-family: comic,monotype-corsiva,cursive;
+}
+p{
+	font-family: ;
+}
+body{
+	background-color: rgba(25,55,95,0.5);
+}
+title{
+border-bottom:solid black; 
+}
+ul{
+	border:solid black;
+	border-radius: 10px;
+	background-color: pink;
+}
